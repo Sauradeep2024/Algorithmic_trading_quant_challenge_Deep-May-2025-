@@ -1,6 +1,10 @@
-# FlexPower Quant Challenge
+# Quant Challenge
 
-Answer: Please find Task 1 in "FLXPWR.ipynb" file. Task 2, questions 1 to 5, please find in excel sheet "analysis_task_data(Answers 2.1 to 2.5).xlsx". The rest of task 2 is in "FLXPWR.ipynb" file. Thank you.
+***Please find Task 1 in "Coding_Output_for_Questions.ipynb" file.***
+
+***Task 2, questions 1 to 5, please find in excel sheet "analysis_task_data(Answers 2.1 to 2.5).xlsx". The rest of task 2 is in "Coding_Output_for_Questions.ipynb" file. Thank you.***
+
+# Quant Challenge Questions
 
 * [Background](#background)
 * [Task 1: Minimal Reporting Tool](#task-1-minimal-reporting-tool)
